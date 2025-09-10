@@ -1,3 +1,4 @@
+package Static_FinalKeyWord_IntanceofOperations_Practice;
 public class Vehicle_RegistrationSystem {
     private static double registrationFee = 100.0;
     private final String registrationNumber;

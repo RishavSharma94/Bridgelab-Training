@@ -1,3 +1,4 @@
+package Static_FinalKeyWord_IntanceofOperations_Practice;
 public class Hospital_ManagementSystem {
     private static String hospitalName;
     private static int totalPatients = 0;

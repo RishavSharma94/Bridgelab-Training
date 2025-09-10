@@ -1,3 +1,4 @@
+package Static_FinalKeyWord_IntanceofOperations_Practice;
 public class BankAccount {
     private static String bankName = "State Bank of India";
     private static int totalAccounts = 0;

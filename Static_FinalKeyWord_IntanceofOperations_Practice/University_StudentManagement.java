@@ -1,3 +1,4 @@
+package Static_FinalKeyWord_IntanceofOperations_Practice;
 public class University_StudentManagement {
     private static String universityName;
     private static int totalStudents = 0;
